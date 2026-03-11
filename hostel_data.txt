@@ -1,0 +1,20 @@
+Student ID     : 1001
+Student Name   : Rahul Yadav
+Floor          : 1
+Room Number    : 1
+Bed Number     : 1
+Joining Month  : January
+Monthly Fee    : 8000.00
+Pending Amount : 0.00
+Saved Date     : 24-02-2026
+----------------------------------------
+Student ID     : 104
+Student Name   : Anurag Sharma
+Floor          : 1
+Room Number    : 1
+Bed Number     : 2
+Joining Month  : May
+Monthly Fee    : 8000.00
+Pending Amount : 0.00
+Saved Date     : 24-02-2026
+----------------------------------------

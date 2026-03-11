@@ -1,0 +1,30 @@
+ID: 101
+Name: Gourav
+Room: 34
+Floor: 3
+Bed: 1
+-----------------------------------
+ID: 103
+Name: Rohan Jat
+Room: 1
+Floor: 1
+Bed: 3
+-----------------------------------
+ID: 101
+Name: Sunil Nayak
+Room: 2
+Floor: 1
+Bed: 1
+-----------------------------------
+ID: 102
+Name: Aryan Sen
+Room: 1
+Floor: 1
+Bed: 2
+-----------------------------------
+ID: 104
+Name: Sumit Gurjar
+Room: 1
+Floor: 1
+Bed: 4
+-----------------------------------

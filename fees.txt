@@ -1,0 +1,13 @@
+
+========== Monthly Fee Record ==========
+
+========== Monthly Fee Record ==========
+Student ID        : 1001
+Student Name      : Rahul Yadav
+Month             : January
+Previous Pending  : 0.0
+Monthly Fee       : 8000.0
+Payment Made      : 8000.0
+New Pending       : 0.0
+=========================================
+
